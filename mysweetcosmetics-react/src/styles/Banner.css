@@ -1,0 +1,10 @@
+.msc-banner{
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+}
+
+.msc-logo{
+    width: 150px;
+}

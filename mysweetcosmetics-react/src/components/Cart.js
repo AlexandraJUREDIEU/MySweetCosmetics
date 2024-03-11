@@ -1,9 +1,11 @@
+import '../styles/Cart.css'
+
 function Cart() {
     const ralPrice = 4.6
     const mascaraPrice = 7
     const faoPrice = 6.5
 
-    return (<div>
+    return (<div className="msc-cart">
         <h2>Panier</h2>
         <ul>
         <li>Rouge Divin : {ralPrice}€</li>
